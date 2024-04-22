@@ -1,1 +1,1 @@
-# TradingTeacher
+# Trading
